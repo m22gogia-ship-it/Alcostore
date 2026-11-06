@@ -1,0 +1,276 @@
+{
+  "captured": "2026-11-06",
+  "description": "Confirmed example price observations. Not a complete catalog or a live feed. Prices require merchant verification before sale.",
+  "records": [
+    {
+      "id": 101,
+      "name": "Estrella Damm ბოთლი 0.33ლ",
+      "cat": "beer",
+      "brand": "Estrella Damm",
+      "source": "alcoshop",
+      "price": 5.8,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 102,
+      "name": "Estrella Damm ბოთლი 0.66ლ",
+      "cat": "beer",
+      "brand": "Estrella Damm",
+      "source": "alcoshop",
+      "price": 8.9,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 103,
+      "name": "Estrella Damm ქილა 0.5ლ",
+      "cat": "beer",
+      "brand": "Estrella Damm",
+      "source": "alcoshop",
+      "price": 5.9,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 104,
+      "name": "Estrella Damm ქილა 0.33ლ",
+      "cat": "beer",
+      "brand": "Estrella Damm",
+      "source": "alcoshop",
+      "price": 3.9,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 105,
+      "name": "შავი ლომი APA 0.5ლ",
+      "cat": "beer",
+      "brand": "შავი ლომი",
+      "source": "alcoshop",
+      "price": 6.95,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 106,
+      "name": "შავი ლომი Black 0.5ლ",
+      "cat": "beer",
+      "brand": "შავი ლომი",
+      "source": "alcoshop",
+      "price": 6.95,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 107,
+      "name": "Erdinger მუქი 0.5ლ",
+      "cat": "beer",
+      "brand": "Erdinger",
+      "source": "alcoshop",
+      "price": 8.8,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 108,
+      "name": "Erdinger თეთრი 0.5ლ",
+      "cat": "beer",
+      "brand": "Erdinger",
+      "source": "alcoshop",
+      "price": 8.8,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 109,
+      "name": "Corona 0.35ლ",
+      "cat": "beer",
+      "brand": "Corona",
+      "source": "alcoshop",
+      "price": 6.7,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 110,
+      "name": "Heineken ბოთლი 0.5ლ",
+      "cat": "beer",
+      "brand": "Heineken",
+      "source": "alcoshop",
+      "price": 6,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 111,
+      "name": "Heineken ქილა 0.5ლ",
+      "cat": "beer",
+      "brand": "Heineken",
+      "source": "alcoshop",
+      "price": 5.5,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/beer"
+    },
+    {
+      "id": 112,
+      "name": "Friends Wine მუკუზანი 0.75ლ",
+      "cat": "wine",
+      "brand": "Friends Wine",
+      "source": "alcoshop",
+      "price": 18.6,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/wine"
+    },
+    {
+      "id": 113,
+      "name": "Friends Wine საფერავი 0.75ლ",
+      "cat": "wine",
+      "brand": "Friends Wine",
+      "source": "alcoshop",
+      "price": 17.4,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/wine"
+    },
+    {
+      "id": 114,
+      "name": "Friends Wine ალაზნის ველი თეთრი 0.75ლ",
+      "cat": "wine",
+      "brand": "Friends Wine",
+      "source": "alcoshop",
+      "price": 13.2,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/wine"
+    },
+    {
+      "id": 115,
+      "name": "რთველისი წინანდალი 0.75ლ",
+      "cat": "wine",
+      "brand": "რთველისი",
+      "source": "alcoshop",
+      "price": 16.8,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/wine"
+    },
+    {
+      "id": 116,
+      "name": "რთველისი ალაზნის ველი თეთრი 0.75ლ",
+      "cat": "wine",
+      "brand": "რთველისი",
+      "source": "alcoshop",
+      "price": 12.6,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/wine"
+    },
+    {
+      "id": 117,
+      "name": "რთველისი ალაზნის ველი წითელი 0.75ლ",
+      "cat": "wine",
+      "brand": "რთველისი",
+      "source": "alcoshop",
+      "price": 16.2,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/wine"
+    },
+    {
+      "id": 118,
+      "name": "მარტინი ბიანკო 1ლ",
+      "cat": "spirits",
+      "brand": "Martini",
+      "source": "alcoshop",
+      "price": 58.9,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/13"
+    },
+    {
+      "id": 119,
+      "name": "მარტინი ბიანკო 0.5ლ",
+      "cat": "spirits",
+      "brand": "Martini",
+      "source": "alcoshop",
+      "price": 33.5,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/13"
+    },
+    {
+      "id": 120,
+      "name": "ჰენესი VS 0.35ლ",
+      "cat": "spirits",
+      "brand": "Hennessy",
+      "source": "alcoshop",
+      "price": 95.5,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/brandy?lang=ge"
+    },
+    {
+      "id": 121,
+      "name": "Hennessy VS 0.05ლ",
+      "cat": "spirits",
+      "brand": "Hennessy",
+      "source": "alcoshop",
+      "price": 18,
+      "oldPrice": null,
+      "url": "https://www.alcoshop.ge/categories/brandy?lang=ge"
+    },
+    {
+      "id": 122,
+      "name": "Gambrinus Original 24×0.5ლ",
+      "cat": "beer",
+      "brand": "Gambrinus",
+      "source": "alcorium",
+      "price": 64.9,
+      "oldPrice": 141.6,
+      "url": "https://alcorium-store.ge/"
+    },
+    {
+      "id": 123,
+      "name": "Estrella Galicia lager ქილა 0.33ლ",
+      "cat": "beer",
+      "brand": "Estrella Galicia",
+      "source": "alcorium",
+      "price": 1.9,
+      "oldPrice": 3.9,
+      "url": "https://alcorium-store.ge/"
+    },
+    {
+      "id": 124,
+      "name": "რთველისი სვირი",
+      "cat": "wine",
+      "brand": "რთველისი",
+      "source": "alcorium",
+      "price": 21.9,
+      "oldPrice": 55,
+      "url": "https://alcorium-store.ge/"
+    },
+    {
+      "id": 125,
+      "name": "რთველისი ბლენდი წითელი ნახევრად ტკბილი",
+      "cat": "wine",
+      "brand": "რთველისი",
+      "source": "alcorium",
+      "price": 19.5,
+      "oldPrice": 45,
+      "url": "https://alcorium-store.ge/"
+    },
+    {
+      "id": 126,
+      "name": "Wyborowa არაყი 0.5ლ",
+      "cat": "spirits",
+      "brand": "Wyborowa",
+      "source": "alcorium",
+      "price": 12.9,
+      "oldPrice": 26.5,
+      "url": "https://alcorium-store.ge/"
+    },
+    {
+      "id": 127,
+      "name": "Celsius Classic არაყი 1ლ",
+      "cat": "spirits",
+      "brand": "Celsius",
+      "source": "alcorium",
+      "price": 19.9,
+      "oldPrice": 42.6,
+      "url": "https://alcorium-store.ge/"
+    }
+  ]
+}
