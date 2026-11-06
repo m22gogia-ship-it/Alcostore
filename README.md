@@ -5,3 +5,10 @@ Added visible navigation brand lists from Alcorium by category (source: https://
 Upload all 7 files to GitHub root; deploy from Vercel.
 
 Limitations: source navigation may truncate some brand listings behind 'სრულად'; this directory covers the inspected navigation entries, not a verified complete inventory. No live supplier synchronization or back-office database is included.
+
+
+## v1.9 ცვლილებები
+- მარცხენა მხარეს ბრენდების ყველა კატეგორია თავდაპირველად ჩაკეცილია. კატეგორიის სათაურზე დაჭერა შლის/კეცავს ბრენდების ჩამონათვალს.
+- ძველი Wikimedia ფოტოების ყველა ბმული კატალოგიდან ამოღებულია. ასევე ძველი ბრაუზერის ფოტოების override აღარ გამოიყენება.
+- თუ ადმინისტრატორმა ამ ვერსიაში ახალი HTTPS ფოტო მიუთითა, პროდუქტის ბარათში მხოლოდ ის გამოჩნდება; სხვა შემთხვევაში ნეიტრალური ბრენდული პლაცეჰოლდერია.
+- ფასები/მარაგები ჯერ დემოა და ცენტრალურ სერვერზე არ ინახება.
