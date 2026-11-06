@@ -31,3 +31,5 @@ html{font-size:85%}body{font-size:85%}
 .catalogActions{display:flex;align-items:center;justify-content:flex-end;gap:10px;margin-bottom:13px;font-size:12px}.catalogActions select{padding:10px;border:1px solid #d5e1d9;background:white;border-radius:8px;max-width:100%}.shopResults{min-width:0}.shopResults .products{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media(max-width:900px){.shopLayout{grid-template-columns:195px minmax(0,1fr)}.shopResults .products{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){.shopLayout{grid-template-columns:1fr}.filterSidebar{position:static;max-height:none}.brandOptions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));max-height:190px}.shopResults .products{grid-template-columns:repeat(2,minmax(0,1fr))}.catalogActions{justify-content:space-between}.filterGroup{padding:10px 0;margin-top:8px}}
+
+.brandSection{padding-top:10px;margin-top:10px;border-top:1px solid #dce5de}.brandSection h4{font-size:12px;margin:3px 0 9px;color:#234d3e}.brandChoice.emptyBrand{opacity:.67}.brandOptions{max-height:680px;overflow-y:auto}.brandChoice b{font-variant-numeric:tabular-nums}
